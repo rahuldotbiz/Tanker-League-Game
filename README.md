@@ -36,7 +36,7 @@ Some screenshots of the game below. (Screenshots are fine but not the game it's 
 ## Help
 
 <a href="https://www.buymeacoffee.com/rahxuls" target="_blank">
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606540958103/otN4S9TK8.png"> 
+  <h2>SUPPORT ME</h2>
 </a>
 
 ### Contribute
